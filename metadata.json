@@ -1,0 +1,6 @@
+{
+  "name": "ai.machete HTML MAILER",
+  "description": "An AI-powered HTML email template and flyer designer with direct, modern email sending capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
